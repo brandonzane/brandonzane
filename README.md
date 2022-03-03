@@ -12,13 +12,13 @@
 </p>
 
 <p>
-  <img src="Kuzimba NFT.png" alt=""></img>
+  <img src="anime-plus.png" alt=""></img>
 </p>
 
 <p>
-  <img src="Kuzimba NFT.png" alt=""></img>
+  <img src="covid-tracker.png" alt=""></img>
 </p>
 
 <p>
-  <img src="Kuzimba NFT.png" alt=""></img>
+  <img src="natainatai.png" alt=""></img>
 </p>
