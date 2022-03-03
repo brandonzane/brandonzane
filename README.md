@@ -8,5 +8,5 @@
 - ⚡ Fun fact: I've built over 10 products with only 2 successful, I'll probably build another 10 in the next 2 years
 
 <p>
-  <img src="" alt=""></img>
+  <img src="Kuzimba NFT.png" alt=""></img>
 </p>
