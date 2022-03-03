@@ -10,3 +10,15 @@
 <p>
   <img src="Kuzimba NFT.png" alt=""></img>
 </p>
+
+<p>
+  <img src="Kuzimba NFT.png" alt=""></img>
+</p>
+
+<p>
+  <img src="Kuzimba NFT.png" alt=""></img>
+</p>
+
+<p>
+  <img src="Kuzimba NFT.png" alt=""></img>
+</p>
