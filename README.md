@@ -7,18 +7,10 @@
 - 📫 How to reach me: bmushori@gmail.com
 - ⚡ Fun fact: I've built over 10 products with only 2 successful, I'll probably build another 10 in the next 2 years
 
-<p>
-  <img src="Kuzimba NFT.png" alt=""></img>
-</p>
+## Project Examples
 
 <p>
-  <img src="anime-plus.png" alt=""></img>
-</p>
-
-<p>
-  <img src="covid-tracker.png" alt=""></img>
-</p>
-
-<p>
-  <img src="natainatai.png" alt=""></img>
+   <img src="Kuzimba NFT.png" alt=""></img>
+   <img src="anime-plus.png" alt=""></img>
+   <img src="covid-tracker.png" alt=""></img>
 </p>
