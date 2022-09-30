@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a Fullstack Developer from Zimbabwe
-- 💻 React JS🔵, React Native, Node JS
+- 💻 React JS🔵, React Native, Node JS, Svelte
 - 💬 Ask me about anything
 - 📫 How to reach me: bmushori@gmail.com
 - ⚡ Fun fact: I've built over 3 successful projects, I'll probably build another 10 in the next 2 years
